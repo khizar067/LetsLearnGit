@@ -1,0 +1,7 @@
+git --version	get Version
+git config --global user.name "Khizar067"
+git config --global user.email "khizar067@gmail.com"
+git config --global --edit (Esc, :wq, enter)
+git init (Repository folder which is tracked by git)
+git commit -m "initial commit"
+
